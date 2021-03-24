@@ -1,0 +1,17 @@
+{
+  "chats": [
+    {
+      "title": "asdasd",
+      "messages": [],
+      "fire": false,
+      "id": 1
+    }
+  ],
+  "messages": [],
+  "profile": {
+    "id": 1,
+    "name": "Ivan Ivanov",
+    "nickname": "Crucial",
+    "age": 22
+  }
+}
